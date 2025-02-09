@@ -1,5 +1,5 @@
 title: Baburam Chaudhary
-logo: /assets/img/git_portfolio_img
+logo: /asset/image/git_portfolio_img.jpg
 description: AI/ML Researcher
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
