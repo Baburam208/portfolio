@@ -87,7 +87,7 @@ Merojob Scraping
 - We have used sqlite database to store the scrapped data.
 - [Read More](https://github.com/Baburam208/Web-Crawling)
 
-Sharesansar Stock historical price scraping
+Sharesansar Scraping
 
 - We have used selenium library for this project, to scrape historical prices of the NEPSE stocks.
 - [Read More](https://github.com/Baburam208/Scrapper/tree/main/ss%20scraping)
