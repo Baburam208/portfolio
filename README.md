@@ -14,6 +14,14 @@ Part time about 6 months, Machine Learning Researcher at RDI, Kathmandu Universi
 **Spatio-Temporal Graph Neural Networks for Late Blight Disease Forecasting**
 [Link](http://ijictdc.kasdc.or.kr/journal/article.php?code=92101&vol=9)
 
+## Technical Skills
+- Programming Language: Python, R, C/C++
+- Frameworks and Libraries: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Scipy, Tensorflow, Pytorch, OpenCV, FastAPI
+- Database: MySQL
+- Version Control: git and github
+- Containerization: Docker
+- Visualization: Microsoft PowerBi, Python Libraries (Matplotlib, Seaborn, Plotly, Dash)
+
 ## Projects
 ### Machine Learning
 
@@ -44,6 +52,13 @@ Snake Identification
 - This project will be helpful to recognize the snake, basically five classes of snakes (king cobra, spectacled cobra, common krait, banded krait, and rat snake). 
   We have used pretrained models: VGG16, DenseNet, InceptionV3, and fine-tuned on our own dataset. We got best performance accuracy of 81% in DenseNet.
 - [Overall Architecture](https://baburam208.github.io/baburamchaudhary.github.io/images/Snake%20Classification%20Architecture%20Diagram.png)
+
+Facial Expression Recognition
+- This project is developed to recognize the facial expression of the people,
+specifically 7 type of expression. The dataset used is open source data “FER2013”. I have created graph data
+out of the facial landmarks detected by the “Mediapipe” library, used different graph neural network
+architectures for the recognition of the expressions.
+- [Read More](https://github.com/Baburam208/GNNs-Projects)
 
 Weather Forecasting
 - We have developed weather forecasting model using Spatio-Temporal Graph Neural Network (STGCN), which will forecast the weather parameters such as temperature, humidity and pressure using the 14 different wether parameters as input to the model.
