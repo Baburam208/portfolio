@@ -1,11 +1,11 @@
 # AI/ML Researcher
 
 ## Education
-- Artificial Intelligence, Masters, Kathmandu University, Dhulikhel, Kavre (Thesis pending, about to finish by a month).
-- Electrical Engineering, Bachelors, Institute of Engineering, Pashchimanchal Campus, Pokhara
+- Artificial Intelligence, Masters, Kathmandu University, Dhulikhel, Kavre; CGPA: 3.90/4.0
+- Electrical Engineering, Bachelors, Institute of Engineering, Pashchimanchal Campus, Pokhara; Percentage: 68.20%
 
 ## Work Experience
-**Part time about 6 months, Machine Learning Researcher at RDI, Kathmandu University Dhulikhel, Kavre (2023 second half)**
+**Part time, Machine Learning Researcher at RDI, Kathmandu University Dhulikhel, Kavre (Aug 2023- Dec 2023)**
 - Project on Late Blight disease forecasting using Graph Neural Networks.
 - My responsibility was to build the deep learning based model based on spatio-temporal graph neural network for weather forecasting for upto a week ahead.
 - In the downstream task using the agriculture science domain knowledge, further uses these forecasted weather parameters for predicting the likeliness of the the late blight in potato and tomato.
